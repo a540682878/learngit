@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 --no--ff
 haha hello git
 hao de
+xixi
